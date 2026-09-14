@@ -18,3 +18,4 @@ This dashboard answers critical HR questions:
 5. **Dashboard Development**: Combined KPIs and visuals into a single HR Analytics Dashboard.
 
 # 📊 Dashboard Link
+https://github.com/ansarisarik6723-stack/HR_ANALYTICS_DASHBOARD_PROJECT/blob/main/Screenshot%202026-09-12%20172950.png
