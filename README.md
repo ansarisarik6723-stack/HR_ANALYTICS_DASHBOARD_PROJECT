@@ -19,4 +19,4 @@ This dashboard answers critical HR questions:
 
 # 📊 Dashboard Link
 https://github.com/ansarisarik6723-stack/HR_ANALYTICS_DASHBOARD_PROJECT/blob/main/Screenshot%202026-09-12%20172950.png
-Screenshot 2026-09-12 172950.png
+"C:\Users\Sharik\OneDrive\Pictures\Screenshots\Screenshot 2026-09-12 172950.png"
